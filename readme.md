@@ -1,5 +1,5 @@
 ## First Simple Cv Task1.
- <a href="https://foxlancerr-cv-task1.surge.sh/" target="_blank">Check it Live Demo</a>
+ <a href="http://cv-task1.surge.sh/" target="_blank">Check it Live Demo</a>
 
 
 Here we can used the following Languages...
